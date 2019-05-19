@@ -1,2 +1,2 @@
 # java
-2019 OMU Bilgisayar Muhendisliği java dersnotlarıdır
+2019 OMU Bilgisayar Muhendisliği Java2 dersnotlarıdır
